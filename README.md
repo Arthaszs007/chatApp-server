@@ -1,0 +1,1 @@
+bcrypt + jsonwebtoken + dotenv + mongoose
